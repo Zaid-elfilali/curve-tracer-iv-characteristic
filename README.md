@@ -124,7 +124,6 @@ This project involves the design and implementation of an IV (Current-Voltage) c
 - 📧 Email: mbenlamlih@uae.ac.ma
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohammed-benlamlih-dr-ing-49b04a1a7/
 
-*"J'ai encadré [Votre Nom] sur son projet de fin d'études concernant la conception d'un traceur de caractéristiques tension-courant. [Il/Elle] a fait preuve d'excellentes compétences en électronique, programmation Arduino, et résolution de problèmes techniques."*
 ## 📚 References
 - Project Report: `rapport-PFE.pdf`
 - AD9833 Datasheet
